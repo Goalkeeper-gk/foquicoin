@@ -1,0 +1,26 @@
+Instalación de wallet y minado de FoquiCoin
+
+1. Descargar la versión para windows o linux de la wallet.
+2. Descargar foquicoin.conf
+3. Descargar minefoqui.bat
+4. Descomprimir la wallet y ejecutar el instalador, lo típico, siguiente siguiente.
+
+Cerrar previamente la wallet
+
+6. Copiar el foquimoney.conf en el directorio %AppData% carpeta foquicoin
+lo encuentran en C:\Users\ ....... \AppData\Roaming\FoquiCoin 
+
+7. Copiar el minefoqui.bat en el directorio de instalación de la foquiwallet
+lo encuentran en C:\Archivos de Programas\foquicoin  por ejemplo
+
+8. Abrir la wallet foquicoin-qt
+
+9. Ejecutar el minefoqui.bat 
+
+Con estos pasos la wallet comienza la sincronización con el nodo y comienzas a minar
+foquicoin.
+
+* 50 foquicoins por cada bloque minado
+* 21 confirmaciones de bloque antes de recibir del bloque.
+
+Estadísticas de bloques minados disponibles en la misma interfáz de la wallet.
